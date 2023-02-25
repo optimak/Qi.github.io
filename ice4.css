@@ -1,0 +1,19 @@
+img {
+    width: 750px;
+    height: 750px;
+  }
+b{
+    color: rgb(80, 17, 17);
+
+}
+
+body {
+    background-color:  rgba(125, 54, 67, 0.34) ;
+
+    /* background: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png") !important; */
+  }
+
+button{
+    border-radius:12px;
+
+}
