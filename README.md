@@ -1,1 +1,2 @@
 # jan
+theme: minima
